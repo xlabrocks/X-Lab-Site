@@ -20,6 +20,8 @@ for specific projects and initiatives and is built to enable it and its projects
 to spin out quickly -- it is an incubator that develops what’s next in tech policy.
 </p>
 
+<p>Meet the <a href="team/">X-Lab Team</a>.</p>
+
 <h2>Mission</h2>
 <p>As more and more aspects of our lives -- the way we live, work and communicate – 
 are computer-mediated -- the lines are blurring between technology, law, and policy. 
