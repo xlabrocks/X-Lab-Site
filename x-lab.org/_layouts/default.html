@@ -1,0 +1,19 @@
+{% include header.html %}
+<header class="content_header">
+  <div class="row">
+    <div class="columns large-12 small-12">
+      <h1 class="title">{{ post.title }}{{ page.title }}</h1>
+    </div>
+  </div>
+</header>
+<div class="page">
+  <div class="row">
+    <section class="columns large-8">
+      <div class="content">
+          {{ content }}
+      </div>
+    </section>
+    {% include right-aside.html %}
+  </div>
+ </div>
+{% include footer.html %}
