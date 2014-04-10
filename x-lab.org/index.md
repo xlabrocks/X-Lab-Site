@@ -4,14 +4,6 @@ layout: front
 lang: en
 ---
 
-<div id="main">
-<p>Innovative, thought-provoking, &amp; challenging tech policy interventions. 
-X-Lab liberates technology from the shackles of digital feudalism through bold 
-leadership that places human rights and user-empowerment at the core of its work.</p>
+What happens when distributed manufacturing begins to disrupt today's global manufacturing chain? What if nothing you do online or even at home could ever be kept private? What if you no longer had control of your personal devices, including basic home appliances?
 
-<!--
-This page should include a prominent call to action 
-(e.g., join our contact list, sign up for our RSS feed, follow us on Twitter, etc.) 
-+ blog, news or twitter stream. something that allows casual visitors to see that the project is active. 
-	-->
-</div>
+X-Lab is an innovative, future-focused platform built to anticipate, develop and respond to what's next in tech policy, so that no one has to choose between their rights and their technology.
