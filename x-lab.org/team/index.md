@@ -19,7 +19,7 @@ published: true
 <ul>
 	<li>Allied Media Projects </li>
     <li>Amnesty International’s Sensor Program </li>
-    <li>Ben-Gurion University ComLinks Lab <li>
+    <li>Ben-Gurion University ComLinks Lab </li>
     <li>Calyx Institute </li>
     <li>Center for Media Justice </li>
     <li>CommunityRED </li>
