@@ -1,22 +1,25 @@
 ---
 layout: default
-title: X-Lab Projects
+title: "X-Lab Projects"
 site_section: projects
-categories:
-created: 2014-03-29
+categories: null
+created: {}
 post_author: admin
 lang: en
+published: true
 ---
 
-<h2>Circumvention Tech Lab</h2>
+<h2>Commotion Tech Lab</h2>
 
-<p>The Circumvention Tech Lab is a one-stop lab combining capabilities 
+<p>Create a Commotion for-profit entity that provides a long-term funding stream for non-profit Commotion research and development. </p>
+
+<h2>Circumvention Tech Audit Lab</h2>
+
+<p>The Circumvention Tech Audit Lab is a one-stop lab combining capabilities 
 to analyze evolving needs from communities and constituencies around the globe, 
 incubate the development of new circumvention technologies, audit source code to 
 improve existing solutions and improve security, provide a stamp of approval for 
-technologies that pass rigorous testing procedures that help ensure secure communications, 
-distribute these solutions worldwide, and provide legal protection for the 
-users of these services and applications.</p>
+technologies that pass rigorous testing procedures that help ensure secure communications, distribute these solutions worldwide, and provide legal protection for the users of these services and applications.</p>
 
 <h2>PrivWare Lab</h2>
 
