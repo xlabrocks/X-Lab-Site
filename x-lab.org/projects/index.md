@@ -11,7 +11,7 @@ published: true
 
 <h2>Commotion Tech Lab</h2>
 
-<p>Create a Commotion for-profit entity that provides a long-term funding stream for non-profit Commotion research and development. </p>
+<p>The <a href="http://commotionwireless.net">Commotion Wireless Project</a> is a global, open source development effort that X-Lab director, Sascha Meinrath, has been coordinating since it's founding in his living room in 2000.  Today, the opportunity exists to create a Commotion for-profit entity that provides a long-term sustainable funding stream for continuing this non-profit initiative.  Much as Ubuntu, Mozilla, and Red Hat have done for other open source projects, this effort will help ensure that free, safe communications is available to everyone on the planet.</p>
 
 <h2>Circumvention Tech Audit Lab</h2>
 
