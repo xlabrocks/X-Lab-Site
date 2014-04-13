@@ -10,7 +10,7 @@ published: true
 ---
 
 <h2>Director</h2>
-<p><!-- <a href="http://newamerica.net/sites/newamerica.net/files/profiles/images/Sascha_Meinrath_102013.jpg"><img src="http://newamerica.net/sites/newamerica.net/files/imagecache/bio_standard_image/profiles/images/Sascha_Meinrath_102013.jpg" alt="Sascha Meinrath"></a> -->
+<p><a href="http://newamerica.net/sites/newamerica.net/files/profiles/images/Sascha_Meinrath_102013.jpg"><img src="http://newamerica.net/sites/newamerica.net/files/imagecache/bio_standard_image/profiles/images/Sascha_Meinrath_102013.jpg" alt="Sascha Meinrath"></a>
 
 <p>X-Lab is directed by Sascha Meinrath, who's been described as a "community Internet pioneer" and an "entrepreneurial visionary." In 2008, Sascha founded the Open Technology Institute (OTI), and he has been an unapologetic advocate for consumers and a counterweight to the major telecom and wireless industry lobbies for over half-a-decade in Washington, DC. Sascha was named to the “TIME Tech 40” in 2013 as one of the most influential figures in technology, and was also named to the “Top 100” in Newsweek's Digital Power Index in 2012. <br /><br />
 
