@@ -15,8 +15,6 @@ X-Lab projects include looking at the implications for disruptive eventualities 
 
 X-Lab is created to be an open sandbox that brings together technologists for specific projects and initiatives and is built to enable its projects to spin out quickly -– it is an incubator that develops bold interventions to avoid dystopian trajectories before they begin.
 
-Meet the <a href="/team">X-Lab Team</a>.
-
 # Mission
 As more and more facets of our lives -- the way we live, work and communicate -- become computer-mediated -- the lines are blurring between technology, law, and policy. Today, norms about how we interact with technology -- and increasingly, how technology interacts with us -- are being made by key decision-makers and will set the trajectory of society for decades to come. These decisions must be informed by a principled and ethical stance, and not merely market forces and political expediency; otherwise we are in danger of rendering fundamental human rights obsolete through the actions and inactions of these same decision-makers.
 
