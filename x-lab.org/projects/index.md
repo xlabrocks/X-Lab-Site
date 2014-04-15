@@ -41,7 +41,7 @@ The massive disruptions caused by distributed manufacturing have enormous implic
 for everything from patents to raw material supply chains, and impact sectors as 
 diverse as transportation, energy, and retail.</p>
 
-<h2>“Smart” Infrastructure Policy Lab</h2>
+<h2>Smart Infrastructure Policy Lab</h2>
 
 <p>A truly intelligent transportation and smart grid system requires everything 
 from a major national fiber buildout, to far-reaching spectrum licensure reforms, 
