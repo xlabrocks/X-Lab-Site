@@ -41,7 +41,7 @@ Sascha’s work is a testament to his lifelong commitment to reducing poverty, r
     <li><a href="markets.newamerica.net">The Markets, Enterprise, &amp; Resiliency Initiative</a> promotes greater awareness of the political and economic dangers of extreme consolidation, identifies the changes in policy and law that cleared the way for such consolidation, and fosters discussions of potential courses of actions to reestablish America’s political economy on a more stable and fair foundation.</li>
     <li><a href="http://mediamobilizing.org/">Media Mobilizing Project</a>  exists to build a media, education and organizing infrastructure that will cohere and amplify the growing movement to end poverty.</li>
     <li><a href="http://oti.newamerica.org">Open Technology Institute</a> strengthens communities through grounded research, technological innovation, and policy reform.</li>
-    <li>Strategic Innovation Lab at Case Western Reserve University </a></li>
-    <li>Tactical Technology Collective </li>
-    <li>Tribal Digital Village </li>
+    <li><a href="http://www.case.edu/">Strategic Innovation Lab at Case Western Reserve University</a> identifies the core strategic challenges facing the United States, designs world-changing responses to these challenges, and prepares a new generation of strategic leaders.</li>
+    <li><a href="http://www.case.edu/">Tactical Technology Collective</a>  advances the skills, tools and techniques of rights advocates, empowering them to use information and communications to help marginalised communities understand and effect progressive social, environmental and political change.</li>
+    <li><a href="http://sctdv.net/">Tribal Digital Village</a> addresses the lack of Internet access for its tribal communities, taking their wireless broadband network to the next level of support for its communities, the "tribal home".</li>
 </ul>
