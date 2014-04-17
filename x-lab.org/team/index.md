@@ -25,18 +25,19 @@ Sascha’s work is a testament to his lifelong commitment to reducing poverty, r
 <p>&nbsp;</p>
 
 <h2>Fellows and Adjuncts</h2>
-<p>(The application window for the first cohort of X-Lab Fellows will be announced soon).</p>
+<p>Founding fellows and adjuncts are by invitation only and will be publicly announced in May 2014.  The application window for the first cohort of X-Lab Fellows will be announced in July 2014.</p>
 <p>&nbsp;</p>
 
 <h2>Organizational Partners</h2>
 <ul>
 	<li><a href="http://alliedmedia.org/">Allied Media Projects</a> cultivates media strategies for a more just, creative, and collaborative world.</li>
     <li><a href="http://www.amnestyusa.org/research/science-for-human-rights">Amnesty International’s Sensor Program</a> leverages technological and scientific progress for human rights advocacy and campaigning.</li>
-    <li><a href="http://in.bgu.ac.il/en/Pages/news/schejter_committee.aspx">Ben-Gurion University ComLinks Lab</a> is developing a regulatory framework that will allow the transition of the existing broadcasting market into the new era as well as the introduction of new service providers.</li>
+    <li><a href="www.bgu.ac.il/links">Ben-Gurion University ComLinks Lab</a> is developing a regulatory framework that will allow the transition of the existing broadcasting market into the new era as well as the introduction of new service providers.</li>
     <li><a href="https://www.calyxinstitute.org">Calyx Institute</a> educates the public about privacy in digital communications and develops and tests building blocks that service providers can use to build "privacy by design" into their service offerings.</li>
     <li><a href="http://centerformediajustice.org/">Center for Media Justice</a> strengthens the communications effectiveness of grassroots racial justice sectors, and sustains a powerful local-to-local movement for media rights and access.</li>
     <li><a href="http://www.communityred.org/">CommunityRED</a> works to improve the security of journalists, activists and citizen reporters in conflict zones, and promotes information sharing where it’s needed most, without endangering lives or livelihoods.</li>
     <li><a href="http://developmentseed.org/">Development Seed</a> empowers citizens and organizations with tools and data to solve complex issues and make better decisions.</li>
+    <li><a href="http://iip.comm.psu.edu/">Institute for Information Policy</a> conducts sponsored research and self-funded programs on the social implications of information technology, with an emphasis on the potential of information technologies for improving democratic discourse, social responsibility and quality of life. 
     <li><a href="https://leap.se">LEAP Encryption Access Project</a> is dedicated to giving all internet users access to secure communication and adapting encryption technology to make it easy to use and widely available.</li>
     <li><a href="markets.newamerica.net">The Markets, Enterprise, &amp; Resiliency Initiative</a> promotes greater awareness of the political and economic dangers of extreme consolidation, identifies the changes in policy and law that cleared the way for such consolidation, and fosters discussions of potential courses of actions to reestablish America’s political economy on a more stable and fair foundation.</li>
     <li><a href="http://mediamobilizing.org/">Media Mobilizing Project</a>  exists to build a media, education and organizing infrastructure that will cohere and amplify the growing movement to end poverty.</li>
