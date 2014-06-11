@@ -22,7 +22,6 @@ In recognition of his impact as a telecommunications policy expert, he was named
 
 Sascha’s work is a testament to his lifelong commitment to reducing poverty, racial inequality, and injustice, values he embraced while growing up in a rough inner-city school in New Haven, Connecticut. A son of an immigrant from Brazil, Sascha has a three year-old daughter who is both a pre-schooler and budding Internet freedom fighter.
 </p>
-<p>&nbsp;</p>
 
 <h2>Staff</h2>
 <p>Jeff Landale is a Research Associate with X-Lab. Before joining X-Lab, Jeff researched telecommunications companies' human rights policies, worked on social media campaigns for digital rights issues, and was the Assistant Project Manager on the RightsCon Silicon Valley 2014 with Access. He has also written on alternative education movements in the United States and elsewhere.</p>
