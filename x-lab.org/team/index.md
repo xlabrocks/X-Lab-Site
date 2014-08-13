@@ -27,7 +27,7 @@ Sascha’s work is a testament to his lifelong commitment to reducing poverty, r
 <p>Jeff Landale is a Research Associate with X-Lab. Before joining X-Lab, Jeff researched telecommunications companies' human rights policies, worked on social media campaigns for digital rights issues, and was the Assistant Project Manager on the RightsCon Silicon Valley 2014 with Access. He has also written on alternative education movements in the United States and elsewhere.</p>
 
 <h2>Fellows and Adjuncts</h2>
-<p>Founding fellows and adjuncts are by invitation only and will be publicly announced in May 2014.  The application window for the first cohort of X-Lab Fellows will be announced in July 2014.</p>
+<p>The first cohort of Fellows will be announced in August 2014.</p>
 <p>&nbsp;</p>
 
 <h2>Organizational Partners</h2>
