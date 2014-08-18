@@ -27,7 +27,17 @@ Sascha’s work is a testament to his lifelong commitment to reducing poverty, r
 <p>Jeff Landale is a Research Associate with X-Lab. Before joining X-Lab, Jeff researched telecommunications companies' human rights policies, worked on social media campaigns for digital rights issues, and was the Assistant Project Manager on the RightsCon Silicon Valley 2014 with Access. He has also written on alternative education movements in the United States and elsewhere.</p>
 
 <h2>Fellows and Adjuncts</h2>
-<p>The first cohort of Fellows will be announced in August 2014.</p>
+<p>Ben Armstrong works with X-Lab on researching the political economy of distributed manufacturing. He is the Director of WellDone International, which produces open-source, modular hardware that monitors water systems in the developing world. He is also a PhD student at MIT studying the relationship between manufacturing technology, the labor market, and higher education.</p>
+
+<p>Josh King works with X-Lab on the global implementation of the Commotion Wireless project. He is the Lead Technologist at the Open Technology Institute, where he develops and implements free and open source software and hardware, evaluates and interprets a wide range of published information on future trends for telecommunications and media, and supports the research infrastructure of an open Internet.</p>
+
+<p>Benjamin Knight works with X-Lab and co-fellow Pia Mancini on creating a scalable collective deliberation and decision making platform for all levels of participatory democracy. Benjamin is a co-founder of Loomio, an online tool for collaborative decision-making built by a team of open-source developers, facilitators and activists in New Zealand. He has an academic background in the evolution of collective intelligence, a practical background in grassroots community organising, and a passion for the potential of technology to spur positive social change.</p>
+
+<p>James Losey works with X-Lab on researching issues related to the control of communications, digital craftsmanship, and internet freedom. James is a doctoral candidate with the School of International Studies and the Department of Media Studies at Stockholm University. He has worked with New America’s Open Technology Institute since 2009 on a variety of information policies, and was Google Policy Fellow with the Global Network Initiative as well as a Consortium on Media Policy Studies fellow. In addition to his doctoral research at Stockholm University he is a 2014-2015 affiliate at the Berkman Center for Internet and Society at Harvard University. </p>
+
+<p>Pia Mancini works with X-Lab and co-Fellow Benjamin Knight on creating a scalable collective deliberation and decision making platform for all levels of participatory democracy. Pia is the Co-Founder of Democracy OS. A political scientist by training, Pia is co-founder and director of Net Democracy. She is also a peer and co-founder of The Net Party, President of arteBA's Young Committee.  </p>
+
+<p>Carolina Rossini works with X-Lab on understanding the policy environments impacting the implementation of the Commotion Project, as well as Internet Governance issues. Carolina is the Vice President for International Rights and Strategy at Public Knowledge. Carolina has more than 13 years of experience in international law, negotiations of transactions, and policy, with a specific focus on internet, telecom, intellectual property, and human rights. Alongside her work at Public Knowledge, she is a Global Partners Digital International Associate and an advisory board member to various organizations with focus on free culture and digital rights.</p>
 <p>&nbsp;</p>
 
 <h2>Organizational Partners</h2>
