@@ -1,5 +1,5 @@
 ---
-layout: default
+layout:
 title: X-Lab Publications &amp; Media
 site_section: publications
 categories:
