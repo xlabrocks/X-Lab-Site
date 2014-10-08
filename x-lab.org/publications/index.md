@@ -8,8 +8,6 @@ post_author: admin
 lang: en
 ---
 
-<ul>
-	
 <table halign="center" align="center" bgcolor="e6e6e6" cellpadding="10" width="820">
 <tbody>
 <tr>
@@ -69,4 +67,3 @@ lang: en
 </tr>
 </tbody>
 </table>
-</ul>
