@@ -1,6 +1,6 @@
 ---
 layout:
-title: X-Lab Publications &amp; Media
+title: Sascha's Tech Note, 8 October 2014
 site_section: publications
 categories:
 created: 2014-03-29
