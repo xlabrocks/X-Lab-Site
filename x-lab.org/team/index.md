@@ -24,7 +24,7 @@ Sascha’s work is a testament to his lifelong commitment to reducing poverty, r
 </p>
 
 <h2>Staff</h2>
-<p>Jeff Landale is a Research Associate with X-Lab. Before joining X-Lab, Jeff researched telecommunications companies' human rights policies, worked on social media campaigns for digital rights issues, and was the Assistant Project Manager on the RightsCon Silicon Valley 2014 with Access. He has also written on alternative education movements in the United States and elsewhere.</p>
+<p>Jeff Landale is X-Lab's Executive Assistant. Before joining X-Lab, Jeff researched telecommunications companies' human rights policies, worked on social media campaigns for digital rights issues, and was the Assistant Project Manager on the RightsCon Silicon Valley 2014 with Access. He has also written on alternative education movements in the United States and elsewhere.</p>
 
 <h2>Fellows and Adjuncts</h2>
 <p>Ben Armstrong works with X-Lab on researching the political economy of distributed manufacturing. He is the Director of WellDone International, which produces open-source, modular hardware that monitors water systems in the developing world. He is also a PhD student at MIT studying the relationship between manufacturing technology, the labor market, and higher education.</p>
