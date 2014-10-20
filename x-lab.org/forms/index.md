@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contaact X-Lab
+title: Contact X-Lab
 site_section: forms
 categories:
 created: 2014-04-10
