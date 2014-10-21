@@ -29,6 +29,12 @@ Sascha’s work is a testament to his lifelong commitment to reducing poverty, r
 <h2>Fellows and Adjuncts</h2>
 <p>Ben Armstrong works with X-Lab on researching the political economy of distributed manufacturing. He is the Director of WellDone International, which produces open-source, modular hardware that monitors water systems in the developing world. He is also a PhD student at MIT studying the relationship between manufacturing technology, the labor market, and higher education.</p>
 
+<p>Griffin Boyce works with X-Lab on Satori and Batou to create secure distribution of circumvention technologies and to increase internet usability for those using accessibility devices. Previously, Griffin worked on the Commotion Wireless Project at the Open Technology Institute, and is currently an independent contractor with Tor.</p>
+
+<p>Lorelei Kelly works with X-Lab on conducting research on open government, including technical assessments of legislatures, the provision and protection of public knowledge, and the piloting of participation methods that create representative, 21st century democratic practices.</p>
+
+<p>Derek Khanna works with X-Lab on copyright reform. Derek, one of Forbes 30 under 30" for law and policy, has worked on congressional and presidential campaigns, and is the author of a widely praised Republican National Committee report on reforming copyright policy. A thought leader on intellectual property rights and copyright, he ran an ultimately successful campaign to legalize phone unlocking in 2013 and 2014.</p>
+
 <p>Josh King works with X-Lab on the global implementation of the Commotion Wireless project. He is the Lead Technologist at the Open Technology Institute, where he develops and implements free and open source software and hardware, evaluates and interprets a wide range of published information on future trends for telecommunications and media, and supports the research infrastructure of an open Internet.</p>
 
 <p>Benjamin Knight works with X-Lab and co-fellow Pia Mancini on creating a scalable collective deliberation and decision making platform for all levels of participatory democracy. Benjamin is a co-founder of Loomio, an online tool for collaborative decision-making built by a team of open-source developers, facilitators and activists in New Zealand. He has an academic background in the evolution of collective intelligence, a practical background in grassroots community organising, and a passion for the potential of technology to spur positive social change.</p>
