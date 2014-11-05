@@ -105,17 +105,3 @@ lang: en
 </tr>
 </tbody>
 </table>
-
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
