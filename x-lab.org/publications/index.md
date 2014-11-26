@@ -101,8 +101,6 @@ lang: en
           <p style="color: #000; margin-bottom: 12px; margin-top: 0;">
           </p> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table>         <table cellspacing="0" width="100%">
    <tr>
-    <td align="center">  <p style="color: #000; margin-bottom: 12px; margin-top: 0;">To unsubscribe, <a href="http://action.mdcteam.com/opt_out/?p=NjksNjksZ2VvcmdldGFAbWRjdGVhbS5jb20%3D">click here</a>.</p>  <p class="copyright" style="color: #000; margin-bottom: 12px; margin-top: 0;">Copyright MDC Strategies</p>
-     <p class="contact" style="color: #000; margin-bottom: 12px; margin-top: 0;">(202) 507-9036 | <a href="mailto:info@mdcteam.com">info@mdcteam.com</a></p>
      <p class="credits" style="color: #000; margin-bottom: 12px; margin-top: 0;">Powered by <a href="http://action.mdcteam.com/r/E/0/Njk/1/0/Z2VvcmdldGFAbWRjdGVhbS5jb20/aHR0cDovL3BsdXN0aHJlZS5jb20vYXJjb3MvIyEjIQ/69/1">ARCOS</a> | Design by <a href="http://action.mdcteam.com/r/E/0/Njk/1/0/Z2VvcmdldGFAbWRjdGVhbS5jb20/aHR0cDovL3BsdXN0aHJlZS5jb20vIyEjIQ/69/1">Plus Three</a></p> </td>
    </tr> </table> </body>   </html>
 
