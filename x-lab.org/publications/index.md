@@ -7,17 +7,7 @@ created: 2014-03-29
 post_author: admin
 lang: en
 ---
-<html>
- <head>
-  <style type="text/css">
-h1,h2,h3,h4,h5,h6,p,ul,ol,li,blockquote,hr {
-    margin-top: 0;
-    margin-bottom: 12px;
-    color: #000;
-}
-</style>
-  <meta content="text/html;charset=utf-8" http-equiv="content-type" />
- </head>
+
  <body>   <table align="center" bgcolor="#e6e6e6" cellpadding="10" halign="center" width="820">
    <tbody>
     <tr>
