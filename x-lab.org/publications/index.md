@@ -1,6 +1,3 @@
-</style>
-  <meta content="text/html;charset=utf-8" http-equiv="content-type" />
-
  <body>   <table align="center" bgcolor="#e6e6e6" cellpadding="10" halign="center" width="820">
    <tbody>
     <tr>
