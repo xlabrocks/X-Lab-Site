@@ -10,7 +10,6 @@ lang: en
 <html>
  <head>
   <style type="text/css">
-h1,h2,h3,h4,h5,h6,p,ul,ol,li,blockquote,hr {
     margin-top: 0;
     margin-bottom: 12px;
     color: #000;
