@@ -1,12 +1,4 @@
----
-layout:
-title: Sascha's Tech Note, 26 November 2014
-site_section: publications
-categories:
-created: 2014-03-29
-post_author: admin
-lang: en
----
+</style>
   <meta content="text/html;charset=utf-8" http-equiv="content-type" />
  </head>
  <body>   <table align="center" bgcolor="#e6e6e6" cellpadding="10" halign="center" width="820">
@@ -100,8 +92,4 @@ lang: en
               <p style="color: #000; line-height: 1; margin-bottom: 0pt; margin-left: 252pt; margin-top: 0pt;">
               </p> </td> </tr> </tbody> </table>
           <p style="color: #000; margin-bottom: 12px; margin-top: 0;">
-          </p> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table>         <table cellspacing="0" width="100%">
-   <tr>
-    <td align="center">  <p style="color: #000; margin-bottom: 12px; margin-top: 0;">To unsubscribe, <a href="http://action.mdcteam.com/opt_out/?p=NzMsNzMsZ2VvcmdldGFAbWRjdGVhbS5jb20%3D">click here</a>.</p>  <p class="copyright" style="color: #000; margin-bottom: 12px; margin-top: 0;">Copyright MDC Strategies</p>
-     <p class="contact" style="color: #000; margin-bottom: 12px; margin-top: 0;">(202) 507-9036 | <a href="mailto:info@mdcteam.com">info@mdcteam.com</a></p>
-     <p class="credits" style="color: #000; margin-bottom: 12px; margin-top: 0;">Powered by <a href="http://action.mdcteam.com/r/E/0/NzM/1/0/Z2VvcmdldGFAbWRjdGVhbS5jb20/aHR0cDovL3BsdXN0aHJlZS5jb20vYXJjb3MvIyEjIQ/73/1">ARCOS</a> | Design by <a href="http://action.mdcteam.com/r/E/0/NzM/1/0/Z2VvcmdldGFAbWRjdGVhbS5jb20/aHR0cDovL3BsdXN0aHJlZS5jb20vIyEjIQ/73/1">Plus Three</a></p> </td>
+          </p> </td> </tr> </tbody> </table> </td> </tr>
